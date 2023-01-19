@@ -1,0 +1,22 @@
+{
+  "name": "typescript-learn",
+  "version": "1.0.0",
+  "description": "typescript学习",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sleepy-Jerry/Typescript-learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sleepy-Jerry/Typescript-learn/issues"
+  },
+  "homepage": "https://github.com/sleepy-Jerry/Typescript-learn#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18"
+  }
+}
